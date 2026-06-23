@@ -13,7 +13,7 @@ pattern”. It allows you to remove most of the boilerplate and write reusable
 configurations that can be used across multiple machines.
 
 If you want an example of a working configuration you can look at
-[my configuration](https://github.com/FilipRuman/NNC) or one of:
+[my configuration](https://github.com/Feeflak/NNC) or one of:
 
 - [Doc-Steve's configuration](https://github.com/Doc-Steve/dendritic-design-with-flake-parts/tree/main/modules)
 - [Vimjoyer's configuration](https://github.com/vimjoyer/nixconf)
@@ -433,18 +433,18 @@ cleanup = "sudo nix-collect-garbage --delete-older-than 14d";
 
 If you find anything to improve in this project's code, please create an issue
 describing it on the
-[GitHub repository for this project](https://github.com/FilipRuman/NNC/issues).
+[GitHub repository for this project](https://github.com/Feeflak/NNC/issues).
 For website-related issues, create an issue
-[here](https://github.com/FilipRuman/pages/issues).
+[here](https://github.com/Feeflak/pages/issues).
 
 #### Support
 
 All pages on this site are written by a human, and you can access everything for
 free without ads. If you find this work valuable, please give a star to the
-[GitHub repository for this project](https://github.com/FilipRuman/NNC).
+[GitHub repository for this project](https://github.com/Feeflak/NNC).
 
 <script src="https://giscus.app/client.js"
-        data-repo="FilipRuman/NNC"
+        data-repo="Feeflak/NNC"
         data-repo-id="R_kgDOQ3xb7Q"
         data-category="Announcements"
         data-category-id="DIC_kwDOQ3xb7c4C4CG7"

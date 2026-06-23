@@ -14,7 +14,7 @@ Sometimes quick data visualizations can allow you to spot issues that would not
 be obvious otherwise.
 
 I encountered such a bug while developing my
-[flight simulator](https://github.com/FilipRuman/Flight-sim). I had an issue
+[flight simulator](https://github.com/Feeflak/Flight-sim). I had an issue
 with the simulation stability at certain flight conditions. I tried displaying
 flight data (drag, lift, thrust, torque, aoa, etc.) as graphics instead of
 boring vector values. It allowed me to discover issues in the logic of my code
@@ -180,18 +180,18 @@ private int? CalculateW()
 
 If you find anything to improve in this project's code, please create an issue
 describing it on the
-[GitHub repository for this project](https://github.com/FilipRuman/procedural_terrain_generationV2/issues).
+[GitHub repository for this project](https://github.com/Feeflak/procedural_terrain_generationV2/issues).
 For website-related issues, create an issue
-[here](https://github.com/FilipRuman/pages/issues).
+[here](https://github.com/Feeflak/pages/issues).
 
 #### Support
 
 All pages on this site are written by a human, and you can access everything for
 free without ads. If you find this work valuable, please give a star to the
-[GitHub repository for this project](https://github.com/FilipRuman/procedural_terrain_generationV2).
+[GitHub repository for this project](https://github.com/Feeflak/procedural_terrain_generationV2).
 
 <script src="https://giscus.app/client.js"
-        data-repo="FilipRuman/procedural_terrain_generationV2"
+        data-repo="Feeflak/procedural_terrain_generationV2"
         data-repo-id="R_kgDOQlnCIA"
         data-category="Announcements"
         data-category-id="DIC_kwDOQlnCIM4C4CHB"
