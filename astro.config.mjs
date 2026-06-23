@@ -6,7 +6,7 @@ import starlightUtils from "@lorenzo_lewis/starlight-utils";
 import starlightImageZoom from "starlight-image-zoom";
 import sitemap from "@astrojs/sitemap";
 export default defineConfig({
-  site: "https://filip-ruman.pages.dev/",
+  site: "https://feeflak.pages.dev/",
   base: "/",
   integrations: [starlight({
       logo: {
