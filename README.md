@@ -1,2 +1,3 @@
-Been doing cool, computer related stuff for the last 7.
+Addicted to tinkering with computers since I was 12yo.
+
 You can contact me through: feeflak@tuta.io
